@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 *.pyd
 *.pyo
+.idea/
 
 # Virtual environment
 .venv/
@@ -11,6 +12,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.env
 
 # Distribution / build files
 build/
